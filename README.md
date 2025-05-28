@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on learning to code and am excited to begin this journey
 - 🌱 I’m currently learning Basic IT concepts
-- 👯 I’m looking to collaborate on nothing at the moment but that will change soon!
 - 🤔 I’m looking for help with any tips or tricks would be greatly appreciated
 - 💬 Ask me about anything
 - 📫 How to reach me: nickarms12@gmail.com
